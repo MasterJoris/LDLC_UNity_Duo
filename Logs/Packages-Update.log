@@ -81,3 +81,12 @@ The following packages were updated:
   com.unity.probuilder from version 4.1.0 to 4.2.3
   com.unity.progrids from version 3.0.3-preview.4 to 3.0.3-preview.5
   com.unity.timeline from version 1.2.6 to 1.2.14
+
+=== Thu Dec  3 12:08:29 2020
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ide.vscode from version 1.2.1 to 1.2.3
+  com.unity.test-framework from version 1.1.16 to 1.1.18
